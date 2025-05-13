@@ -62,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
            LayoutInflater layoutInflater = (LayoutInflater) getSystemService(Context.LAYOUT_INFLATER_SERVICE);
            View myView = layoutInflater.inflate(R.layout.item, ViewGroup, false);
 
+           // baki shob hashmap er moto.. so oita nijeke bujhe bujhe korte hobe..
+
 
            return myView;
        }
